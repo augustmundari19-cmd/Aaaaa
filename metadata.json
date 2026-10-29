@@ -1,0 +1,6 @@
+{
+  "name": "My Crypto Trader",
+  "description": "Advanced cryptocurrency trading application with real-time 15m charts, RSI, EMA 9/21, Supertrend, ATR-based risk management, paper trading, and CoinDCX integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
